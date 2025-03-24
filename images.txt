@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-python:alpine3.19
+nginx:latest
