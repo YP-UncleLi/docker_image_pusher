@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-prometheus:v3.0.0
+prometheus:latest
