@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-alpine:3.14
+prometheus:v3.0.0
