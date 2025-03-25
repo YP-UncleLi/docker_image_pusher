@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-nginx:latest
+alpine:3.14
