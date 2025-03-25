@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-prometheus:latest
+prom/prometheus:latest
