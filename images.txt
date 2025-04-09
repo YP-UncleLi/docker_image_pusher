@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-prom/prometheus:latest
+prom/prometheus:v2.39.1
