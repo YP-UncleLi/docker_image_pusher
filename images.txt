@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-grafana:8.5.6
+nginx:1.25
