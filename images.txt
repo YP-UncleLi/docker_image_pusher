@@ -1,2 +1,2 @@
 portainer/portainer-ce:lts
-nginx:1.25
+jenkins:2.479.1-lts
